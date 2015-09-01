@@ -8,8 +8,10 @@ This is the guise which will allow you to receive hands on experience with
 ## Useful practices
 
 * [GIT tip : Keep your branch clean with fixup and autosquash][fixup-n-autosquash]
+* [Only Allow Git Fast-forward Merges to Avoid Ugly Merge Commits][merge-ff-only]
 
 [fixup-n-autosquash]: http://fle.github.io/git-tip-keep-your-branch-clean-with-fixup-and-autosquash.html
+[merge-ff-only]: http://aaronbonner.io/post/78444674979/only-allow-git-fast-forward-merges-to-avoid-ugly
 
 ## Tools
 
